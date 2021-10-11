@@ -308,9 +308,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58D86F27367442EFBAE5B28C /* Roboto-Black.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				58D86F27367442EFBAE5B28C /* Roboto-Black.ttf in Resources */,
 				12E5ADDB72294F1B96A3261A /* Roboto-BlackItalic.ttf in Resources */,
 				C4A7D470A509464BBD73F23D /* Roboto-Bold.ttf in Resources */,
 				856632ADAABA448291045BB3 /* Roboto-BoldItalic.ttf in Resources */,
